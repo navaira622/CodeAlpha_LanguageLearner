@@ -1,0 +1,3253 @@
+{
+  "words": [
+    {
+      "id": 1,
+      "word": "hello",
+      "translation": "hola",
+      "pronunciation": "OH-la",
+      "example": "Hello, how are you? — ¡Hola, cómo estás?",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 2,
+      "word": "goodbye",
+      "translation": "adiós",
+      "pronunciation": "ah-DYOS",
+      "example": "Goodbye, see you tomorrow! — ¡Adiós, hasta mañana!",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 3,
+      "word": "please",
+      "translation": "por favor",
+      "pronunciation": "por fah-VOR",
+      "example": "Can I have water, please? — ¿Me da agua, por favor?",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 4,
+      "word": "thank you",
+      "translation": "gracias",
+      "pronunciation": "GRAH-syahs",
+      "example": "Thank you very much! — ¡Muchas gracias!",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 5,
+      "word": "yes",
+      "translation": "sí",
+      "pronunciation": "SEE",
+      "example": "Yes, I understand. — Sí, entiendo.",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 6,
+      "word": "no",
+      "translation": "no",
+      "pronunciation": "NOH",
+      "example": "No, I don't want it. — No, no lo quiero.",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 7,
+      "word": "good morning",
+      "translation": "buenos días",
+      "pronunciation": "BWEH-nos DEE-ahs",
+      "example": "Good morning, everyone! — ¡Buenos días a todos!",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 8,
+      "word": "good night",
+      "translation": "buenas noches",
+      "pronunciation": "BWEH-nahs NOH-chays",
+      "example": "Good night, sleep well. — Buenas noches, duerme bien.",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 9,
+      "word": "excuse me",
+      "translation": "con permiso",
+      "pronunciation": "kon pehr-MEE-so",
+      "example": "Excuse me, can you help me? — Con permiso, ¿puede ayudarme?",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 10,
+      "word": "sorry",
+      "translation": "lo siento",
+      "pronunciation": "lo SYEN-to",
+      "example": "I'm sorry for the delay. — Lo siento por el retraso.",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 11,
+      "word": "bread",
+      "translation": "pan",
+      "pronunciation": "PAHN",
+      "example": "I eat bread every morning. — Como pan cada mañana.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 12,
+      "word": "water",
+      "translation": "agua",
+      "pronunciation": "AH-gwah",
+      "example": "I need a glass of water. — Necesito un vaso de agua.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 13,
+      "word": "milk",
+      "translation": "leche",
+      "pronunciation": "LEH-chay",
+      "example": "The baby drinks milk. — El bebé toma leche.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 14,
+      "word": "egg",
+      "translation": "huevo",
+      "pronunciation": "WEH-bo",
+      "example": "I want two fried eggs. — Quiero dos huevos fritos.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 15,
+      "word": "apple",
+      "translation": "manzana",
+      "pronunciation": "man-SAH-nah",
+      "example": "An apple a day keeps the doctor away. — Una manzana al día mantiene al médico alejado.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 16,
+      "word": "orange",
+      "translation": "naranja",
+      "pronunciation": "nah-RAHN-ha",
+      "example": "I drink orange juice every morning. — Tomo jugo de naranja cada mañana.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 17,
+      "word": "rice",
+      "translation": "arroz",
+      "pronunciation": "ah-ROHS",
+      "example": "We eat rice with every meal. — Comemos arroz con cada comida.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 18,
+      "word": "chicken",
+      "translation": "pollo",
+      "pronunciation": "POH-yo",
+      "example": "The grilled chicken is delicious. — El pollo a la parrilla está delicioso.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 19,
+      "word": "coffee",
+      "translation": "café",
+      "pronunciation": "kah-FEH",
+      "example": "I drink coffee in the morning. — Tomo café por la mañana.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 20,
+      "word": "soup",
+      "translation": "sopa",
+      "pronunciation": "SOH-pah",
+      "example": "The hot soup warms me up. — La sopa caliente me calienta.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 21,
+      "word": "house",
+      "translation": "casa",
+      "pronunciation": "KAH-sah",
+      "example": "My house has three bedrooms. — Mi casa tiene tres dormitorios.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 22,
+      "word": "door",
+      "translation": "puerta",
+      "pronunciation": "PWEHR-tah",
+      "example": "Please close the door. — Por favor cierra la puerta.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 23,
+      "word": "window",
+      "translation": "ventana",
+      "pronunciation": "ben-TAH-nah",
+      "example": "Open the window for fresh air. — Abre la ventana para tener aire fresco.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 24,
+      "word": "chair",
+      "translation": "silla",
+      "pronunciation": "SEE-yah",
+      "example": "Please sit in the chair. — Por favor siéntate en la silla.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 25,
+      "word": "table",
+      "translation": "mesa",
+      "pronunciation": "MEH-sah",
+      "example": "Put the book on the table. — Pon el libro en la mesa.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 26,
+      "word": "bed",
+      "translation": "cama",
+      "pronunciation": "KAH-mah",
+      "example": "I sleep in a big bed. — Duermo en una cama grande.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 27,
+      "word": "kitchen",
+      "translation": "cocina",
+      "pronunciation": "ko-SEE-nah",
+      "example": "My mother cooks in the kitchen. — Mi madre cocina en la cocina.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 28,
+      "word": "bathroom",
+      "translation": "baño",
+      "pronunciation": "BAH-nyo",
+      "example": "The bathroom is on the second floor. — El baño está en el segundo piso.",
+      "difficulty": "easy",
+      "category": "home"
+    },
+    {
+      "id": 29,
+      "word": "man",
+      "translation": "hombre",
+      "pronunciation": "OM-breh",
+      "example": "The man is reading a book. — El hombre está leyendo un libro.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 30,
+      "word": "woman",
+      "translation": "mujer",
+      "pronunciation": "moo-HEHR",
+      "example": "The woman is walking in the park. — La mujer camina en el parque.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 31,
+      "word": "boy",
+      "translation": "niño",
+      "pronunciation": "NEE-nyo",
+      "example": "The boy is playing football. — El niño juega fútbol.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 32,
+      "word": "girl",
+      "translation": "niña",
+      "pronunciation": "NEE-nyah",
+      "example": "The girl has long hair. — La niña tiene el cabello largo.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 33,
+      "word": "friend",
+      "translation": "amigo",
+      "pronunciation": "ah-MEE-go",
+      "example": "My best friend lives nearby. — Mi mejor amigo vive cerca.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 34,
+      "word": "family",
+      "translation": "familia",
+      "pronunciation": "fah-MEE-lyah",
+      "example": "My family is very important to me. — Mi familia es muy importante para mí.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 35,
+      "word": "mother",
+      "translation": "madre",
+      "pronunciation": "MAH-dreh",
+      "example": "My mother makes the best food. — Mi madre hace la mejor comida.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 36,
+      "word": "father",
+      "translation": "padre",
+      "pronunciation": "PAH-dreh",
+      "example": "My father works in the city. — Mi padre trabaja en la ciudad.",
+      "difficulty": "easy",
+      "category": "people"
+    },
+    {
+      "id": 37,
+      "word": "school",
+      "translation": "escuela",
+      "pronunciation": "es-KWAY-lah",
+      "example": "The children go to school Monday to Friday. — Los niños van a la escuela de lunes a viernes.",
+      "difficulty": "easy",
+      "category": "places"
+    },
+    {
+      "id": 38,
+      "word": "city",
+      "translation": "ciudad",
+      "pronunciation": "syoo-DAHD",
+      "example": "I live in a big city. — Vivo en una ciudad grande.",
+      "difficulty": "easy",
+      "category": "places"
+    },
+    {
+      "id": 39,
+      "word": "park",
+      "translation": "parque",
+      "pronunciation": "PAR-keh",
+      "example": "We play in the park on weekends. — Jugamos en el parque los fines de semana.",
+      "difficulty": "easy",
+      "category": "places"
+    },
+    {
+      "id": 40,
+      "word": "store",
+      "translation": "tienda",
+      "pronunciation": "TYEN-dah",
+      "example": "I buy clothes at the store. — Compro ropa en la tienda.",
+      "difficulty": "easy",
+      "category": "places"
+    },
+    {
+      "id": 41,
+      "word": "big",
+      "translation": "grande",
+      "pronunciation": "GRAHN-deh",
+      "example": "The elephant is a big animal. — El elefante es un animal grande.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 42,
+      "word": "small",
+      "translation": "pequeño",
+      "pronunciation": "peh-KEH-nyo",
+      "example": "The kitten is very small. — El gatito es muy pequeño.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 43,
+      "word": "fast",
+      "translation": "rápido",
+      "pronunciation": "RAH-pee-do",
+      "example": "The car is very fast. — El carro es muy rápido.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 44,
+      "word": "slow",
+      "translation": "lento",
+      "pronunciation": "LEN-to",
+      "example": "The turtle walks slow. — La tortuga camina lenta.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 45,
+      "word": "hot",
+      "translation": "caliente",
+      "pronunciation": "kah-LYEN-teh",
+      "example": "The soup is very hot. — La sopa está muy caliente.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 46,
+      "word": "cold",
+      "translation": "frío",
+      "pronunciation": "FREE-oh",
+      "example": "The water is cold today. — El agua está fría hoy.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 47,
+      "word": "happy",
+      "translation": "feliz",
+      "pronunciation": "feh-LEES",
+      "example": "I am happy to see you. — Estoy feliz de verte.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 48,
+      "word": "sad",
+      "translation": "triste",
+      "pronunciation": "TREES-teh",
+      "example": "She looks sad today. — Ella se ve triste hoy.",
+      "difficulty": "easy",
+      "category": "adjectives"
+    },
+    {
+      "id": 49,
+      "word": "eat",
+      "translation": "comer",
+      "pronunciation": "ko-MEHR",
+      "example": "We eat dinner at seven. — Comemos la cena a las siete.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 50,
+      "word": "drink",
+      "translation": "beber",
+      "pronunciation": "beh-BEHR",
+      "example": "I drink a lot of water. — Bebo mucha agua.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 51,
+      "word": "sleep",
+      "translation": "dormir",
+      "pronunciation": "dor-MEER",
+      "example": "I sleep eight hours a night. — Duermo ocho horas por noche.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 52,
+      "word": "walk",
+      "translation": "caminar",
+      "pronunciation": "kah-mee-NAR",
+      "example": "I walk to school every day. — Camino a la escuela todos los días.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 53,
+      "word": "run",
+      "translation": "correr",
+      "pronunciation": "ko-REHR",
+      "example": "She runs every morning. — Ella corre cada mañana.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 54,
+      "word": "read",
+      "translation": "leer",
+      "pronunciation": "leh-EHR",
+      "example": "I love to read books. — Me encanta leer libros.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 55,
+      "word": "write",
+      "translation": "escribir",
+      "pronunciation": "es-kree-BEER",
+      "example": "Please write your name. — Por favor escribe tu nombre.",
+      "difficulty": "easy",
+      "category": "verbs"
+    },
+    {
+      "id": 56,
+      "word": "one",
+      "translation": "uno",
+      "pronunciation": "OO-no",
+      "example": "I have one brother. — Tengo un hermano.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 57,
+      "word": "two",
+      "translation": "dos",
+      "pronunciation": "DOHS",
+      "example": "I have two cats. — Tengo dos gatos.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 58,
+      "word": "three",
+      "translation": "tres",
+      "pronunciation": "TREHS",
+      "example": "There are three windows. — Hay tres ventanas.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 59,
+      "word": "four",
+      "translation": "cuatro",
+      "pronunciation": "KWAH-tro",
+      "example": "The table has four legs. — La mesa tiene cuatro patas.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 60,
+      "word": "five",
+      "translation": "cinco",
+      "pronunciation": "SEEN-ko",
+      "example": "I have five fingers on each hand. — Tengo cinco dedos en cada mano.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 101,
+      "word": "afternoon",
+      "translation": "tarde",
+      "pronunciation": "TAR-deh",
+      "example": "Good afternoon, how was your day? — Buenas tardes, ¿cómo estuvo tu día?",
+      "difficulty": "medium",
+      "category": "time"
+    },
+    {
+      "id": 102,
+      "word": "yesterday",
+      "translation": "ayer",
+      "pronunciation": "ah-YEHR",
+      "example": "Yesterday I went to the market. — Ayer fui al mercado.",
+      "difficulty": "medium",
+      "category": "time"
+    },
+    {
+      "id": 103,
+      "word": "tomorrow",
+      "translation": "mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "example": "Tomorrow we have a test. — Mañana tenemos un examen.",
+      "difficulty": "medium",
+      "category": "time"
+    },
+    {
+      "id": 104,
+      "word": "always",
+      "translation": "siempre",
+      "pronunciation": "SYEM-preh",
+      "example": "She always wakes up early. — Ella siempre se despierta temprano.",
+      "difficulty": "medium",
+      "category": "adverbs"
+    },
+    {
+      "id": 105,
+      "word": "never",
+      "translation": "nunca",
+      "pronunciation": "NOON-kah",
+      "example": "I never eat breakfast alone. — Nunca desayuno solo.",
+      "difficulty": "medium",
+      "category": "adverbs"
+    },
+    {
+      "id": 106,
+      "word": "sometimes",
+      "translation": "a veces",
+      "pronunciation": "ah VEH-ses",
+      "example": "Sometimes I feel tired. — A veces me siento cansado.",
+      "difficulty": "medium",
+      "category": "adverbs"
+    },
+    {
+      "id": 107,
+      "word": "hospital",
+      "translation": "hospital",
+      "pronunciation": "os-pee-TAL",
+      "example": "The hospital is open 24 hours. — El hospital está abierto 24 horas.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 108,
+      "word": "restaurant",
+      "translation": "restaurante",
+      "pronunciation": "res-tow-RAN-teh",
+      "example": "We went to a great restaurant. — Fuimos a un gran restaurante.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 109,
+      "word": "airport",
+      "translation": "aeropuerto",
+      "pronunciation": "ah-eh-ro-PWER-to",
+      "example": "The airport is far from downtown. — El aeropuerto está lejos del centro.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 110,
+      "word": "train",
+      "translation": "tren",
+      "pronunciation": "TREHN",
+      "example": "The train arrives at eight. — El tren llega a las ocho.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 111,
+      "word": "bus",
+      "translation": "autobús",
+      "pronunciation": "ow-to-BOOS",
+      "example": "The bus is late today. — El autobús llega tarde hoy.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 112,
+      "word": "bicycle",
+      "translation": "bicicleta",
+      "pronunciation": "bee-see-KLEH-tah",
+      "example": "I ride my bicycle to work. — Voy al trabajo en bicicleta.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 113,
+      "word": "beautiful",
+      "translation": "hermoso",
+      "pronunciation": "er-MOH-so",
+      "example": "The sunset is beautiful today. — El atardecer está hermoso hoy.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 114,
+      "word": "difficult",
+      "translation": "difícil",
+      "pronunciation": "dee-FEE-seel",
+      "example": "This test is very difficult. — Este examen es muy difícil.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 115,
+      "word": "important",
+      "translation": "importante",
+      "pronunciation": "eem-por-TAN-teh",
+      "example": "This meeting is very important. — Esta reunión es muy importante.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 116,
+      "word": "interesting",
+      "translation": "interesante",
+      "pronunciation": "een-teh-reh-SAN-teh",
+      "example": "This book is very interesting. — Este libro es muy interesante.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 117,
+      "word": "delicious",
+      "translation": "delicioso",
+      "pronunciation": "deh-lee-SYOH-so",
+      "example": "The food was delicious. — La comida estaba deliciosa.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 118,
+      "word": "expensive",
+      "translation": "caro",
+      "pronunciation": "KAH-ro",
+      "example": "This restaurant is too expensive. — Este restaurante es demasiado caro.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 119,
+      "word": "cheap",
+      "translation": "barato",
+      "pronunciation": "bah-RAH-to",
+      "example": "I found a cheap hotel. — Encontré un hotel barato.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 120,
+      "word": "understand",
+      "translation": "entender",
+      "pronunciation": "en-ten-DEHR",
+      "example": "Do you understand the lesson? — ¿Entiendes la lección?",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 121,
+      "word": "learn",
+      "translation": "aprender",
+      "pronunciation": "ah-pren-DEHR",
+      "example": "I want to learn Spanish. — Quiero aprender español.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 122,
+      "word": "speak",
+      "translation": "hablar",
+      "pronunciation": "ah-BLAR",
+      "example": "Can you speak more slowly? — ¿Puedes hablar más despacio?",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 123,
+      "word": "listen",
+      "translation": "escuchar",
+      "pronunciation": "es-koo-CHAR",
+      "example": "Please listen carefully. — Por favor escucha con atención.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 124,
+      "word": "work",
+      "translation": "trabajar",
+      "pronunciation": "trah-bah-HAR",
+      "example": "I work five days a week. — Trabajo cinco días a la semana.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 125,
+      "word": "study",
+      "translation": "estudiar",
+      "pronunciation": "es-too-DYAR",
+      "example": "I study for two hours daily. — Estudio dos horas al día.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 126,
+      "word": "travel",
+      "translation": "viajar",
+      "pronunciation": "byah-HAR",
+      "example": "I love to travel to new places. — Me encanta viajar a lugares nuevos.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 127,
+      "word": "buy",
+      "translation": "comprar",
+      "pronunciation": "kom-PRAR",
+      "example": "I need to buy groceries. — Necesito comprar comestibles.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 128,
+      "word": "sell",
+      "translation": "vender",
+      "pronunciation": "ben-DEHR",
+      "example": "He sells cars for a living. — Él vende coches para vivir.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 129,
+      "word": "cook",
+      "translation": "cocinar",
+      "pronunciation": "ko-see-NAR",
+      "example": "She loves to cook Italian food. — A ella le encanta cocinar comida italiana.",
+      "difficulty": "medium",
+      "category": "verbs"
+    },
+    {
+      "id": 130,
+      "word": "doctor",
+      "translation": "médico",
+      "pronunciation": "MEH-dee-ko",
+      "example": "The doctor gave me good advice. — El médico me dio buenos consejos.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 131,
+      "word": "teacher",
+      "translation": "maestro",
+      "pronunciation": "mah-EH-stro",
+      "example": "My teacher is very patient. — Mi maestro es muy paciente.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 132,
+      "word": "student",
+      "translation": "estudiante",
+      "pronunciation": "es-too-DYAN-teh",
+      "example": "She is a hard-working student. — Ella es una estudiante muy trabajadora.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 133,
+      "word": "neighbor",
+      "translation": "vecino",
+      "pronunciation": "beh-SEE-no",
+      "example": "My neighbor is very friendly. — Mi vecino es muy amigable.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 134,
+      "word": "vegetable",
+      "translation": "verdura",
+      "pronunciation": "ber-DOO-rah",
+      "example": "Eat more vegetables every day. — Come más verduras todos los días.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 135,
+      "word": "fruit",
+      "translation": "fruta",
+      "pronunciation": "FROO-tah",
+      "example": "This fruit salad is fresh. — Esta ensalada de fruta está fresca.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 136,
+      "word": "meat",
+      "translation": "carne",
+      "pronunciation": "KAR-neh",
+      "example": "I prefer chicken over red meat. — Prefiero el pollo sobre la carne roja.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 137,
+      "word": "cheese",
+      "translation": "queso",
+      "pronunciation": "KEH-so",
+      "example": "The pizza has lots of cheese. — La pizza tiene mucho queso.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 138,
+      "word": "salad",
+      "translation": "ensalada",
+      "pronunciation": "en-sah-LAH-dah",
+      "example": "I made a fresh salad for lunch. — Hice una ensalada fresca para el almuerzo.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 139,
+      "word": "dessert",
+      "translation": "postre",
+      "pronunciation": "POS-treh",
+      "example": "I always want dessert after dinner. — Siempre quiero postre después de cenar.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 140,
+      "word": "breakfast",
+      "translation": "desayuno",
+      "pronunciation": "deh-sah-YOO-no",
+      "example": "Breakfast is the most important meal. — El desayuno es la comida más importante.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 141,
+      "word": "lunch",
+      "translation": "almuerzo",
+      "pronunciation": "al-MWER-so",
+      "example": "We eat lunch at noon. — Almorzamos al mediodía.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 142,
+      "word": "dinner",
+      "translation": "cena",
+      "pronunciation": "SEH-nah",
+      "example": "Dinner is served at eight. — La cena se sirve a las ocho.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 143,
+      "word": "homework",
+      "translation": "tarea",
+      "pronunciation": "tah-REH-ah",
+      "example": "I finished my homework early. — Terminé mi tarea temprano.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 144,
+      "word": "exam",
+      "translation": "examen",
+      "pronunciation": "ex-AH-men",
+      "example": "The final exam is next week. — El examen final es la próxima semana.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 145,
+      "word": "classroom",
+      "translation": "salón de clases",
+      "pronunciation": "sah-LON de KLA-ses",
+      "example": "The classroom has thirty students. — El salón de clases tiene treinta estudiantes.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 146,
+      "word": "pencil",
+      "translation": "lápiz",
+      "pronunciation": "LAH-pees",
+      "example": "I need a pencil to draw. — Necesito un lápiz para dibujar.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 147,
+      "word": "notebook",
+      "translation": "cuaderno",
+      "pronunciation": "kwah-DEHR-no",
+      "example": "Write the notes in your notebook. — Escribe los apuntes en tu cuaderno.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 148,
+      "word": "library",
+      "translation": "biblioteca",
+      "pronunciation": "bee-blyoh-TEH-kah",
+      "example": "I study at the library every evening. — Estudio en la biblioteca cada tarde.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 149,
+      "word": "schedule",
+      "translation": "horario",
+      "pronunciation": "o-RAH-ryoh",
+      "example": "Check your class schedule online. — Revisa tu horario de clases en línea.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 150,
+      "word": "grade",
+      "translation": "calificación",
+      "pronunciation": "kah-lee-fee-kah-SYON",
+      "example": "She got a perfect grade on her test. — Ella obtuvo una calificación perfecta en su examen.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 151,
+      "word": "passport",
+      "translation": "pasaporte",
+      "pronunciation": "pah-sah-POR-teh",
+      "example": "Don't forget your passport for travel. — No olvides tu pasaporte para viajar.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 152,
+      "word": "hotel",
+      "translation": "hotel",
+      "pronunciation": "o-TEL",
+      "example": "We booked a hotel near the beach. — Reservamos un hotel cerca de la playa.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 153,
+      "word": "map",
+      "translation": "mapa",
+      "pronunciation": "MAH-pah",
+      "example": "Use the map to find the museum. — Usa el mapa para encontrar el museo.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 154,
+      "word": "ticket",
+      "translation": "boleto",
+      "pronunciation": "bo-LEH-to",
+      "example": "I lost my train ticket. — Perdí mi boleto de tren.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 155,
+      "word": "luggage",
+      "translation": "equipaje",
+      "pronunciation": "eh-kee-PAH-heh",
+      "example": "My luggage is too heavy. — Mi equipaje es demasiado pesado.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 156,
+      "word": "reservation",
+      "translation": "reservación",
+      "pronunciation": "reh-ser-bah-SYON",
+      "example": "I made a dinner reservation. — Hice una reservación para cenar.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 157,
+      "word": "daily life",
+      "translation": "vida cotidiana",
+      "pronunciation": "VEE-dah ko-tee-DYAH-nah",
+      "example": "Daily life in Spain is very relaxed. — La vida cotidiana en España es muy relajada.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 158,
+      "word": "routine",
+      "translation": "rutina",
+      "pronunciation": "roo-TEE-nah",
+      "example": "I have a morning routine. — Tengo una rutina matutina.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 159,
+      "word": "alarm clock",
+      "translation": "despertador",
+      "pronunciation": "des-per-tah-DOR",
+      "example": "My alarm clock wakes me at six. — Mi despertador me despierta a las seis.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 160,
+      "word": "supermarket",
+      "translation": "supermercado",
+      "pronunciation": "soo-per-mehr-KAH-do",
+      "example": "I shop at the supermarket on Saturdays. — Hago las compras en el supermercado los sábados.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 161,
+      "word": "neighborhood",
+      "translation": "vecindario",
+      "pronunciation": "beh-seen-DAH-ryoh",
+      "example": "My neighborhood is safe and quiet. — Mi vecindario es seguro y tranquilo.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 162,
+      "word": "weather",
+      "translation": "clima",
+      "pronunciation": "KLEE-mah",
+      "example": "The weather today is perfect. — El clima hoy está perfecto.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 163,
+      "word": "traffic",
+      "translation": "tráfico",
+      "pronunciation": "TRAH-fee-ko",
+      "example": "There is heavy traffic in the city. — Hay mucho tráfico en la ciudad.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 164,
+      "word": "appointment",
+      "translation": "cita",
+      "pronunciation": "SEE-tah",
+      "example": "I have a doctor's appointment tomorrow. — Tengo una cita con el médico mañana.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 165,
+      "word": "bank",
+      "translation": "banco",
+      "pronunciation": "BAHN-ko",
+      "example": "I need to go to the bank. — Necesito ir al banco.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 166,
+      "word": "pharmacy",
+      "translation": "farmacia",
+      "pronunciation": "far-MAH-syah",
+      "example": "The pharmacy closes at ten. — La farmacia cierra a las diez.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 167,
+      "word": "post office",
+      "translation": "correo",
+      "pronunciation": "ko-RREH-oh",
+      "example": "I mailed the letter at the post office. — Envié la carta en el correo.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 168,
+      "word": "museum",
+      "translation": "museo",
+      "pronunciation": "moo-SEH-oh",
+      "example": "The museum has ancient artifacts. — El museo tiene artefactos antiguos.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 169,
+      "word": "beach",
+      "translation": "playa",
+      "pronunciation": "PLAH-yah",
+      "example": "We swim at the beach in summer. — Nadamos en la playa en verano.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 170,
+      "word": "mountain",
+      "translation": "montaña",
+      "pronunciation": "mon-TAH-nyah",
+      "example": "We hiked up the mountain. — Caminamos hasta la cima de la montaña.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 201,
+      "word": "sophisticated",
+      "translation": "sofisticado",
+      "pronunciation": "so-fees-tee-KAH-do",
+      "example": "She has a very sophisticated style. — Ella tiene un estilo muy sofisticado.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 202,
+      "word": "appreciate",
+      "translation": "apreciar",
+      "pronunciation": "ah-preh-SYAR",
+      "example": "I appreciate your help very much. — Aprecio mucho tu ayuda.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 203,
+      "word": "accomplish",
+      "translation": "lograr",
+      "pronunciation": "lo-GRAR",
+      "example": "She accomplished all her goals. — Ella logró todas sus metas.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 204,
+      "word": "perseverance",
+      "translation": "perseverancia",
+      "pronunciation": "per-seh-beh-RAN-syah",
+      "example": "Success requires perseverance and hard work. — El éxito requiere perseverancia y trabajo duro.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 205,
+      "word": "compromise",
+      "translation": "compromiso",
+      "pronunciation": "kom-pro-MEE-so",
+      "example": "They reached a compromise after hours of talks. — Llegaron a un compromiso después de horas de conversación.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 206,
+      "word": "entrepreneurship",
+      "translation": "emprendimiento",
+      "pronunciation": "em-pren-dee-MYEN-to",
+      "example": "Entrepreneurship requires creativity and risk. — El emprendimiento requiere creatividad y riesgo.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 207,
+      "word": "sustainability",
+      "translation": "sostenibilidad",
+      "pronunciation": "sos-teh-nee-bee-lee-DAD",
+      "example": "Sustainability is key to our future. — La sostenibilidad es clave para nuestro futuro.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 208,
+      "word": "infrastructure",
+      "translation": "infraestructura",
+      "pronunciation": "een-frah-es-trook-TOO-rah",
+      "example": "The city invested in new infrastructure. — La ciudad invirtió en nueva infraestructura.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 209,
+      "word": "consequence",
+      "translation": "consecuencia",
+      "pronunciation": "kon-seh-KWEN-syah",
+      "example": "Consider the consequences of your actions. — Considera las consecuencias de tus acciones.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 210,
+      "word": "simultaneous",
+      "translation": "simultáneo",
+      "pronunciation": "see-mool-TAH-neh-oh",
+      "example": "The simultaneous translation was impressive. — La traducción simultánea fue impresionante.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 211,
+      "word": "ambiguous",
+      "translation": "ambiguo",
+      "pronunciation": "am-BEE-gwoh",
+      "example": "The contract had ambiguous language. — El contrato tenía un lenguaje ambiguo.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 212,
+      "word": "phenomenon",
+      "translation": "fenómeno",
+      "pronunciation": "feh-NOH-meh-no",
+      "example": "The northern lights are a natural phenomenon. — Las auroras boreales son un fenómeno natural.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 213,
+      "word": "consciousness",
+      "translation": "conciencia",
+      "pronunciation": "kon-SYEN-syah",
+      "example": "Human consciousness is a mystery. — La conciencia humana es un misterio.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 214,
+      "word": "reconcile",
+      "translation": "reconciliar",
+      "pronunciation": "reh-kon-see-LYAR",
+      "example": "They worked hard to reconcile their differences. — Trabajaron duro para reconciliar sus diferencias.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 215,
+      "word": "deteriorate",
+      "translation": "deteriorarse",
+      "pronunciation": "deh-teh-ryoh-RAR-seh",
+      "example": "His health began to deteriorate rapidly. — Su salud empezó a deteriorarse rápidamente.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 216,
+      "word": "exaggerate",
+      "translation": "exagerar",
+      "pronunciation": "ex-ah-heh-RAR",
+      "example": "Don't exaggerate the problem. — No exageres el problema.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 217,
+      "word": "unprecedented",
+      "translation": "sin precedentes",
+      "pronunciation": "seen preh-seh-DEN-tes",
+      "example": "The pandemic caused unprecedented changes. — La pandemia causó cambios sin precedentes.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 218,
+      "word": "resilience",
+      "translation": "resiliencia",
+      "pronunciation": "reh-see-LYEN-syah",
+      "example": "Children show great resilience. — Los niños muestran gran resiliencia.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 219,
+      "word": "perspective",
+      "translation": "perspectiva",
+      "pronunciation": "pers-pek-TEE-bah",
+      "example": "Try to see it from my perspective. — Intenta verlo desde mi perspectiva.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 220,
+      "word": "fluctuate",
+      "translation": "fluctuar",
+      "pronunciation": "flook-too-AR",
+      "example": "Stock prices fluctuate daily. — Los precios de las acciones fluctúan diariamente.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 221,
+      "word": "jurisdiction",
+      "translation": "jurisdicción",
+      "pronunciation": "hoo-rees-deek-SYON",
+      "example": "This case falls under federal jurisdiction. — Este caso está bajo jurisdicción federal.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 222,
+      "word": "procurement",
+      "translation": "adquisición",
+      "pronunciation": "ad-kee-see-SYON",
+      "example": "The procurement process takes several weeks. — El proceso de adquisición tarda varias semanas.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 223,
+      "word": "eloquent",
+      "translation": "elocuente",
+      "pronunciation": "eh-lo-KWEN-teh",
+      "example": "The president gave an eloquent speech. — El presidente dio un discurso elocuente.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 224,
+      "word": "meticulous",
+      "translation": "meticuloso",
+      "pronunciation": "meh-tee-koo-LOH-so",
+      "example": "She is meticulous in her work. — Ella es meticulosa en su trabajo.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 225,
+      "word": "collaborate",
+      "translation": "colaborar",
+      "pronunciation": "ko-lah-bo-RAR",
+      "example": "We need to collaborate to succeed. — Necesitamos colaborar para tener éxito.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 226,
+      "word": "anticipate",
+      "translation": "anticipar",
+      "pronunciation": "an-tee-see-PAR",
+      "example": "I didn't anticipate this problem. — No anticipé este problema.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 227,
+      "word": "innovation",
+      "translation": "innovación",
+      "pronunciation": "ee-no-bah-SYON",
+      "example": "Innovation drives economic growth. — La innovación impulsa el crecimiento económico.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 228,
+      "word": "hierarchy",
+      "translation": "jerarquía",
+      "pronunciation": "heh-rar-KEE-ah",
+      "example": "The company has a flat hierarchy. — La empresa tiene una jerarquía plana.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 229,
+      "word": "contemplate",
+      "translation": "contemplar",
+      "pronunciation": "kon-tem-PLAR",
+      "example": "I need time to contemplate this decision. — Necesito tiempo para contemplar esta decisión.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 230,
+      "word": "nuance",
+      "translation": "matiz",
+      "pronunciation": "mah-TEES",
+      "example": "The nuance of the language is important. — El matiz del lenguaje es importante.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 231,
+      "word": "inevitable",
+      "translation": "inevitable",
+      "pronunciation": "ee-neh-bee-TAH-bleh",
+      "example": "Change is inevitable in life. — El cambio es inevitable en la vida.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 232,
+      "word": "paradigm",
+      "translation": "paradigma",
+      "pronunciation": "pah-rah-DEEG-mah",
+      "example": "This discovery shifted the scientific paradigm. — Este descubrimiento cambió el paradigma científico.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 233,
+      "word": "ambivalent",
+      "translation": "ambivalente",
+      "pronunciation": "am-bee-bah-LEN-teh",
+      "example": "She felt ambivalent about the decision. — Ella se sentía ambivalente sobre la decisión.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 234,
+      "word": "benevolent",
+      "translation": "benevolente",
+      "pronunciation": "beh-neh-bo-LEN-teh",
+      "example": "The king was a benevolent ruler. — El rey fue un gobernante benevolente.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 235,
+      "word": "superficial",
+      "translation": "superficial",
+      "pronunciation": "soo-per-fee-SYAHL",
+      "example": "His knowledge is only superficial. — Su conocimiento es solo superficial.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 236,
+      "word": "indigenous",
+      "translation": "indígena",
+      "pronunciation": "een-DEE-heh-nah",
+      "example": "The indigenous people live in the forest. — Los pueblos indígenas viven en el bosque.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 237,
+      "word": "chronological",
+      "translation": "cronológico",
+      "pronunciation": "kro-no-LOH-hee-ko",
+      "example": "Arrange the events in chronological order. — Ordena los eventos en orden cronológico.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 238,
+      "word": "alleviate",
+      "translation": "aliviar",
+      "pronunciation": "ah-lee-BYAR",
+      "example": "The medicine helps alleviate pain. — La medicina ayuda a aliviar el dolor.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 239,
+      "word": "reverberate",
+      "translation": "rever­berar",
+      "pronunciation": "reh-ber-beh-RAR",
+      "example": "Her words reverberated in the room. — Sus palabras reverberaron en la sala.",
+      "difficulty": "hard",
+      "category": "verbs"
+    },
+    {
+      "id": 240,
+      "word": "discrepancy",
+      "translation": "discrepancia",
+      "pronunciation": "dees-kreh-PAN-syah",
+      "example": "There is a discrepancy in the numbers. — Hay una discrepancia en los números.",
+      "difficulty": "hard",
+      "category": "nouns"
+    },
+    {
+      "id": 241,
+      "word": "tacos",
+      "translation": "tacos",
+      "pronunciation": "TAH-kos",
+      "example": "I love eating tacos on Tuesday nights. — Me encanta comer tacos los martes por la noche.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 242,
+      "word": "avocado",
+      "translation": "aguacate",
+      "pronunciation": "ah-gwah-KAH-teh",
+      "example": "The avocado in the salad is fresh. — El aguacate en la ensalada está fresco.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 243,
+      "word": "strawberry",
+      "translation": "fresa",
+      "pronunciation": "FREH-sah",
+      "example": "I want strawberry ice cream. — Quiero helado de fresa.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 244,
+      "word": "tomato",
+      "translation": "tomate",
+      "pronunciation": "to-MAH-teh",
+      "example": "Tomatoes are red and healthy. — Los tomates son rojos y saludables.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 245,
+      "word": "potato",
+      "translation": "papa",
+      "pronunciation": "PAH-pah",
+      "example": "I want french fries with my burger. — Quiero papas fritas con mi hamburguesa.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 246,
+      "word": "fish",
+      "translation": "pescado",
+      "pronunciation": "pes-KAH-do",
+      "example": "We eat fish every Friday. — Comemos pescado cada viernes.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 247,
+      "word": "sugar",
+      "translation": "azúcar",
+      "pronunciation": "ah-SOO-kar",
+      "example": "How much sugar do you want? — ¿Cuánto azúcar quieres?",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 248,
+      "word": "salt",
+      "translation": "sal",
+      "pronunciation": "SAHL",
+      "example": "Pass the salt, please. — Pásame la sal, por favor.",
+      "difficulty": "easy",
+      "category": "food"
+    },
+    {
+      "id": 249,
+      "word": "butter",
+      "translation": "mantequilla",
+      "pronunciation": "man-teh-KEE-yah",
+      "example": "Spread butter on the bread. — Unta mantequilla en el pan.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 250,
+      "word": "spicy",
+      "translation": "picante",
+      "pronunciation": "pee-KAN-teh",
+      "example": "Mexican food is often spicy. — La comida mexicana suele ser picante.",
+      "difficulty": "medium",
+      "category": "food"
+    },
+    {
+      "id": 251,
+      "word": "suitcase",
+      "translation": "maleta",
+      "pronunciation": "mah-LEH-tah",
+      "example": "Pack your suitcase the night before. — Empaca tu maleta la noche anterior.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 252,
+      "word": "customs",
+      "translation": "aduana",
+      "pronunciation": "ah-DWAH-nah",
+      "example": "Declare your items at customs. — Declara tus artículos en la aduana.",
+      "difficulty": "hard",
+      "category": "travel"
+    },
+    {
+      "id": 253,
+      "word": "currency",
+      "translation": "moneda",
+      "pronunciation": "mo-NEH-dah",
+      "example": "What currency does Spain use? — ¿Qué moneda usa España?",
+      "difficulty": "hard",
+      "category": "travel"
+    },
+    {
+      "id": 254,
+      "word": "itinerary",
+      "translation": "itinerario",
+      "pronunciation": "ee-tee-neh-RAH-ryoh",
+      "example": "The travel itinerary is very detailed. — El itinerario de viaje es muy detallado.",
+      "difficulty": "hard",
+      "category": "travel"
+    },
+    {
+      "id": 255,
+      "word": "boarding pass",
+      "translation": "tarjeta de embarque",
+      "pronunciation": "tar-HEH-tah deh em-BAR-keh",
+      "example": "Show your boarding pass at the gate. — Muestra tu tarjeta de embarque en la puerta.",
+      "difficulty": "hard",
+      "category": "travel"
+    },
+    {
+      "id": 256,
+      "word": "blackboard",
+      "translation": "pizarrón",
+      "pronunciation": "pee-sah-RRON",
+      "example": "The teacher writes on the blackboard. — El maestro escribe en el pizarrón.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 257,
+      "word": "principal",
+      "translation": "director",
+      "pronunciation": "dee-rek-TOR",
+      "example": "The principal welcomed new students. — El director dio la bienvenida a los nuevos alumnos.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 258,
+      "word": "graduate",
+      "translation": "graduarse",
+      "pronunciation": "grah-DWAR-seh",
+      "example": "She will graduate from university this year. — Ella se graduará de la universidad este año.",
+      "difficulty": "hard",
+      "category": "school"
+    },
+    {
+      "id": 259,
+      "word": "scholarship",
+      "translation": "beca",
+      "pronunciation": "BEH-kah",
+      "example": "She won a full scholarship. — Ella ganó una beca completa.",
+      "difficulty": "hard",
+      "category": "school"
+    },
+    {
+      "id": 260,
+      "word": "curriculum",
+      "translation": "plan de estudios",
+      "pronunciation": "plan deh es-TOO-dyos",
+      "example": "The curriculum covers many subjects. — El plan de estudios cubre muchas materias.",
+      "difficulty": "hard",
+      "category": "school"
+    },
+    {
+      "id": 261,
+      "word": "sunrise",
+      "translation": "amanecer",
+      "pronunciation": "ah-mah-neh-SEHR",
+      "example": "I wake up before sunrise. — Me despierto antes del amanecer.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 262,
+      "word": "commute",
+      "translation": "trayecto al trabajo",
+      "pronunciation": "trah-YEK-to al trah-BAH-ho",
+      "example": "My commute takes one hour. — Mi trayecto al trabajo dura una hora.",
+      "difficulty": "hard",
+      "category": "daily_life"
+    },
+    {
+      "id": 263,
+      "word": "laundry",
+      "translation": "ropa sucia",
+      "pronunciation": "ROH-pah SOO-syah",
+      "example": "I do laundry on Sundays. — Lavo la ropa sucia los domingos.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 264,
+      "word": "grocery",
+      "translation": "víveres",
+      "pronunciation": "VEE-beh-rehs",
+      "example": "I need to buy groceries today. — Necesito comprar víveres hoy.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 265,
+      "word": "hygiene",
+      "translation": "higiene",
+      "pronunciation": "ee-HYEH-neh",
+      "example": "Good hygiene is very important. — La buena higiene es muy importante.",
+      "difficulty": "hard",
+      "category": "daily_life"
+    },
+    {
+      "id": 271,
+      "word": "subway",
+      "translation": "metro",
+      "pronunciation": "MEH-tro",
+      "example": "I take the subway to work. — Tomo el metro para ir al trabajo.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 272,
+      "word": "taxi",
+      "translation": "taxi",
+      "pronunciation": "TAHK-see",
+      "example": "Let's take a taxi downtown. — Tomemos un taxi al centro.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 273,
+      "word": "highway",
+      "translation": "autopista",
+      "pronunciation": "ow-to-PEES-tah",
+      "example": "The highway was very busy. — La autopista estaba muy transitada.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 274,
+      "word": "platform",
+      "translation": "andén",
+      "pronunciation": "an-DEN",
+      "example": "Wait on platform three for the train. — Espera en el andén tres para el tren.",
+      "difficulty": "medium",
+      "category": "transport"
+    },
+    {
+      "id": 275,
+      "word": "departure",
+      "translation": "salida",
+      "pronunciation": "sah-LEE-dah",
+      "example": "The departure is at nine o'clock. — La salida es a las nueve.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 276,
+      "word": "arrival",
+      "translation": "llegada",
+      "pronunciation": "ye-GAH-dah",
+      "example": "The arrival time is noon. — La hora de llegada es al mediodía.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 277,
+      "word": "guide",
+      "translation": "guía",
+      "pronunciation": "GEE-ah",
+      "example": "The tour guide was very knowledgeable. — La guía de turismo era muy experta.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 278,
+      "word": "souvenir",
+      "translation": "recuerdo",
+      "pronunciation": "reh-KWEHR-do",
+      "example": "I bought a souvenir from Paris. — Compré un recuerdo de París.",
+      "difficulty": "medium",
+      "category": "travel"
+    },
+    {
+      "id": 279,
+      "word": "subject",
+      "translation": "materia",
+      "pronunciation": "mah-TEH-ryah",
+      "example": "My favorite subject is math. — Mi materia favorita es matemáticas.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 280,
+      "word": "assignment",
+      "translation": "tarea asignada",
+      "pronunciation": "tah-REH-ah ah-seeg-NAH-dah",
+      "example": "The assignment is due tomorrow. — La tarea asignada vence mañana.",
+      "difficulty": "medium",
+      "category": "school"
+    },
+    {
+      "id": 281,
+      "word": "vacation",
+      "translation": "vacaciones",
+      "pronunciation": "bah-kah-SYO-nes",
+      "example": "We go to the beach on vacation. — Vamos a la playa de vacaciones.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 282,
+      "word": "hobby",
+      "translation": "pasatiempo",
+      "pronunciation": "pah-sah-TYEM-po",
+      "example": "Reading is my favorite hobby. — Leer es mi pasatiempo favorito.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 283,
+      "word": "medicine",
+      "translation": "medicina",
+      "pronunciation": "meh-dee-SEE-nah",
+      "example": "Take this medicine twice a day. — Toma esta medicina dos veces al día.",
+      "difficulty": "medium",
+      "category": "places"
+    },
+    {
+      "id": 284,
+      "word": "emergency",
+      "translation": "emergencia",
+      "pronunciation": "eh-mehr-HEN-syah",
+      "example": "Call 911 in an emergency. — Llama al 911 en una emergencia.",
+      "difficulty": "medium",
+      "category": "daily_life"
+    },
+    {
+      "id": 285,
+      "word": "electricity",
+      "translation": "electricidad",
+      "pronunciation": "eh-lek-tree-see-DAD",
+      "example": "The electricity went out last night. — La electricidad se fue anoche.",
+      "difficulty": "medium",
+      "category": "home"
+    },
+    {
+      "id": 286,
+      "word": "furniture",
+      "translation": "muebles",
+      "pronunciation": "MWEH-bles",
+      "example": "We bought new furniture for the living room. — Compramos muebles nuevos para la sala.",
+      "difficulty": "medium",
+      "category": "home"
+    },
+    {
+      "id": 288,
+      "word": "colleague",
+      "translation": "colega",
+      "pronunciation": "ko-LEH-gah",
+      "example": "My colleague helped me with the project. — Mi colega me ayudó con el proyecto.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 289,
+      "word": "manager",
+      "translation": "gerente",
+      "pronunciation": "heh-REN-teh",
+      "example": "The manager approved my vacation request. — El gerente aprobó mi solicitud de vacaciones.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 290,
+      "word": "engineer",
+      "translation": "ingeniero",
+      "pronunciation": "een-heh-NYEH-ro",
+      "example": "She is a software engineer. — Ella es ingeniera de software.",
+      "difficulty": "medium",
+      "category": "people"
+    },
+    {
+      "id": 291,
+      "word": "curious",
+      "translation": "curioso",
+      "pronunciation": "koo-RYOH-so",
+      "example": "Children are naturally curious. — Los niños son naturalmente curiosos.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 292,
+      "word": "confident",
+      "translation": "seguro de sí mismo",
+      "pronunciation": "seh-GOO-ro deh see MEES-mo",
+      "example": "She spoke in a confident tone. — Ella habló con un tono seguro.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 293,
+      "word": "polite",
+      "translation": "cortés",
+      "pronunciation": "kor-TES",
+      "example": "He is always polite to strangers. — Él siempre es cortés con los desconocidos.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 294,
+      "word": "creative",
+      "translation": "creativo",
+      "pronunciation": "kreh-ah-TEE-bo",
+      "example": "She has a very creative mind. — Ella tiene una mente muy creativa.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 295,
+      "word": "patient",
+      "translation": "paciente",
+      "pronunciation": "pah-SYEN-teh",
+      "example": "Good teachers are very patient. — Los buenos maestros son muy pacientes.",
+      "difficulty": "medium",
+      "category": "adjectives"
+    },
+    {
+      "id": 296,
+      "word": "magnanimous",
+      "translation": "magnánimo",
+      "pronunciation": "mag-NAH-nee-mo",
+      "example": "The magnanimous king pardoned all prisoners. — El rey magnánimo perdonó a todos los prisioneros.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 297,
+      "word": "circumspect",
+      "translation": "circunspecto",
+      "pronunciation": "seer-koom-SPEK-to",
+      "example": "A good leader must be circumspect. — Un buen líder debe ser circunspecto.",
+      "difficulty": "hard",
+      "category": "adjectives"
+    },
+    {
+      "id": 298,
+      "word": "tree",
+      "translation": "árbol",
+      "pronunciation": "AHR-bol",
+      "example": "The tree is very tall. — El árbol es muy alto.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 299,
+      "word": "flower",
+      "translation": "flor",
+      "pronunciation": "flor",
+      "example": "The flower is beautiful. — La flor es hermosa.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 300,
+      "word": "river",
+      "translation": "río",
+      "pronunciation": "REE-oh",
+      "example": "The river flows to the sea. — El río fluye al mar.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 301,
+      "word": "ocean",
+      "translation": "océano",
+      "pronunciation": "oh-SEH-ah-no",
+      "example": "The ocean is very deep. — El océano es muy profundo.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 302,
+      "word": "forest",
+      "translation": "bosque",
+      "pronunciation": "BOS-keh",
+      "example": "The forest is full of animals. — El bosque está lleno de animales.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 303,
+      "word": "rain",
+      "translation": "lluvia",
+      "pronunciation": "YOO-vyah",
+      "example": "The rain is heavy today. — La lluvia es fuerte hoy.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 304,
+      "word": "sun",
+      "translation": "sol",
+      "pronunciation": "sol",
+      "example": "The sun rises in the east. — El sol sale por el este.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 305,
+      "word": "moon",
+      "translation": "luna",
+      "pronunciation": "LOO-nah",
+      "example": "The moon is full tonight. — La luna está llena esta noche.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 306,
+      "word": "star",
+      "translation": "estrella",
+      "pronunciation": "es-TREH-ya",
+      "example": "I can see the stars. — Puedo ver las estrellas.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 307,
+      "word": "wind",
+      "translation": "viento",
+      "pronunciation": "VYEN-toh",
+      "example": "The wind is blowing hard. — El viento sopla fuerte.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 308,
+      "word": "cloud",
+      "translation": "nube",
+      "pronunciation": "NOO-beh",
+      "example": "There are dark clouds today. — Hay nubes oscuras hoy.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 309,
+      "word": "snow",
+      "translation": "nieve",
+      "pronunciation": "NYEH-veh",
+      "example": "The snow is very white. — La nieve es muy blanca.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 310,
+      "word": "sand",
+      "translation": "arena",
+      "pronunciation": "ah-REH-nah",
+      "example": "The sand is hot. — La arena está caliente.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 311,
+      "word": "rock",
+      "translation": "roca",
+      "pronunciation": "ROH-kah",
+      "example": "The rock is very heavy. — La roca es muy pesada.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 312,
+      "word": "lake",
+      "translation": "lago",
+      "pronunciation": "LAH-goh",
+      "example": "We swam in the lake. — Nadamos en el lago.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 313,
+      "word": "island",
+      "translation": "isla",
+      "pronunciation": "EES-lah",
+      "example": "We visited a small island. — Visitamos una isla pequeña.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 314,
+      "word": "valley",
+      "translation": "valle",
+      "pronunciation": "VAH-yeh",
+      "example": "The valley is green. — El valle es verde.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 315,
+      "word": "desert",
+      "translation": "desierto",
+      "pronunciation": "deh-SYER-toh",
+      "example": "The desert is very hot. — El desierto es muy caliente.",
+      "difficulty": "medium",
+      "category": "nature"
+    },
+    {
+      "id": 316,
+      "word": "earth",
+      "translation": "tierra",
+      "pronunciation": "TYER-rah",
+      "example": "The earth is our home. — La tierra es nuestro hogar.",
+      "difficulty": "easy",
+      "category": "nature"
+    },
+    {
+      "id": 317,
+      "word": "red",
+      "translation": "rojo",
+      "pronunciation": "ROH-hoh",
+      "example": "The apple is red. — La manzana es roja.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 318,
+      "word": "blue",
+      "translation": "azul",
+      "pronunciation": "ah-SOOL",
+      "example": "The sky is blue. — El cielo es azul.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 319,
+      "word": "green",
+      "translation": "verde",
+      "pronunciation": "VEHR-deh",
+      "example": "The grass is green. — La hierba es verde.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 320,
+      "word": "yellow",
+      "translation": "amarillo",
+      "pronunciation": "ah-mah-REE-yoh",
+      "example": "The sun is yellow. — El sol es amarillo.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 321,
+      "word": "white",
+      "translation": "blanco",
+      "pronunciation": "BLAHN-koh",
+      "example": "Snow is white. — La nieve es blanca.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 322,
+      "word": "black",
+      "translation": "negro",
+      "pronunciation": "NEH-groh",
+      "example": "My cat is black. — Mi gato es negro.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 323,
+      "word": "purple",
+      "translation": "morado",
+      "pronunciation": "moh-RAH-doh",
+      "example": "The flower is purple. — La flor es morada.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 324,
+      "word": "pink",
+      "translation": "rosa",
+      "pronunciation": "ROH-sah",
+      "example": "Her dress is pink. — Su vestido es rosa.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 325,
+      "word": "brown",
+      "translation": "marrón",
+      "pronunciation": "mah-ROHN",
+      "example": "The bear is brown. — El oso es marrón.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 326,
+      "word": "gray",
+      "translation": "gris",
+      "pronunciation": "grees",
+      "example": "The sky is gray today. — El cielo está gris hoy.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 327,
+      "word": "gold",
+      "translation": "dorado",
+      "pronunciation": "doh-RAH-doh",
+      "example": "The ring is gold. — El anillo es dorado.",
+      "difficulty": "medium",
+      "category": "colors"
+    },
+    {
+      "id": 328,
+      "word": "silver",
+      "translation": "plateado",
+      "pronunciation": "plah-teh-AH-doh",
+      "example": "The car is silver. — El coche es plateado.",
+      "difficulty": "medium",
+      "category": "colors"
+    },
+    {
+      "id": 329,
+      "word": "dark",
+      "translation": "oscuro",
+      "pronunciation": "os-KOO-roh",
+      "example": "The room is dark. — La habitación está oscura.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 330,
+      "word": "light",
+      "translation": "claro",
+      "pronunciation": "KLAH-roh",
+      "example": "The color is very light. — El color es muy claro.",
+      "difficulty": "easy",
+      "category": "colors"
+    },
+    {
+      "id": 331,
+      "word": "dog",
+      "translation": "perro",
+      "pronunciation": "PEH-rroh",
+      "example": "My dog is friendly. — Mi perro es amigable.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 332,
+      "word": "cat",
+      "translation": "gato",
+      "pronunciation": "GAH-toh",
+      "example": "The cat is sleeping. — El gato está durmiendo.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 333,
+      "word": "bird",
+      "translation": "pájaro",
+      "pronunciation": "PAH-hah-roh",
+      "example": "The bird is singing. — El pájaro está cantando.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 334,
+      "word": "horse",
+      "translation": "caballo",
+      "pronunciation": "kah-BAH-yoh",
+      "example": "The horse is running. — El caballo está corriendo.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 335,
+      "word": "cow",
+      "translation": "vaca",
+      "pronunciation": "VAH-kah",
+      "example": "The cow gives milk. — La vaca da leche.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 336,
+      "word": "pig",
+      "translation": "cerdo",
+      "pronunciation": "SEHR-doh",
+      "example": "The pig is in the mud. — El cerdo está en el barro.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 337,
+      "word": "sheep",
+      "translation": "oveja",
+      "pronunciation": "oh-VEH-hah",
+      "example": "The sheep is white. — La oveja es blanca.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 338,
+      "word": "lion",
+      "translation": "león",
+      "pronunciation": "leh-ON",
+      "example": "The lion is the king. — El león es el rey.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 339,
+      "word": "tiger",
+      "translation": "tigre",
+      "pronunciation": "TEE-greh",
+      "example": "The tiger is fast. — El tigre es rápido.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 340,
+      "word": "elephant",
+      "translation": "elefante",
+      "pronunciation": "eh-leh-FAHN-teh",
+      "example": "The elephant is huge. — El elefante es enorme.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 341,
+      "word": "monkey",
+      "translation": "mono",
+      "pronunciation": "MOH-noh",
+      "example": "The monkey is climbing. — El mono está trepando.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 342,
+      "word": "snake",
+      "translation": "serpiente",
+      "pronunciation": "sehr-PYEN-teh",
+      "example": "The snake is dangerous. — La serpiente es peligrosa.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 343,
+      "word": "rabbit",
+      "translation": "conejo",
+      "pronunciation": "koh-NEH-hoh",
+      "example": "The rabbit is fast. — El conejo es rápido.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 344,
+      "word": "bear",
+      "translation": "oso",
+      "pronunciation": "OH-soh",
+      "example": "The bear is sleeping. — El oso está durmiendo.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 345,
+      "word": "wolf",
+      "translation": "lobo",
+      "pronunciation": "LOH-boh",
+      "example": "The wolf howls at night. — El lobo aúlla de noche.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 346,
+      "word": "fox",
+      "translation": "zorro",
+      "pronunciation": "SOH-rroh",
+      "example": "The fox is clever. — El zorro es listo.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 347,
+      "word": "duck",
+      "translation": "pato",
+      "pronunciation": "PAH-toh",
+      "example": "The duck swims in the pond. — El pato nada en el estanque.",
+      "difficulty": "easy",
+      "category": "animals"
+    },
+    {
+      "id": 348,
+      "word": "eagle",
+      "translation": "águila",
+      "pronunciation": "AH-gee-lah",
+      "example": "The eagle flies high. — El águila vuela alto.",
+      "difficulty": "medium",
+      "category": "animals"
+    },
+    {
+      "id": 349,
+      "word": "pain",
+      "translation": "dolor",
+      "pronunciation": "doh-LOR",
+      "example": "I have a headache. — Tengo dolor de cabeza.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": 350,
+      "word": "fever",
+      "translation": "fiebre",
+      "pronunciation": "FYEH-breh",
+      "example": "She has a high fever. — Ella tiene fiebre alta.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 351,
+      "word": "cough",
+      "translation": "tos",
+      "pronunciation": "tos",
+      "example": "I have a bad cough. — Tengo mucha tos.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": 352,
+      "word": "headache",
+      "translation": "dolor de cabeza",
+      "pronunciation": "doh-LOR deh kah-BEH-sah",
+      "example": "I have a headache. — Me duele la cabeza.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 353,
+      "word": "stomach",
+      "translation": "estómago",
+      "pronunciation": "es-TOH-mah-goh",
+      "example": "My stomach hurts. — Me duele el estómago.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 354,
+      "word": "healthy",
+      "translation": "sano",
+      "pronunciation": "SAH-noh",
+      "example": "Eat well to stay healthy. — Come bien para estar sano.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": 355,
+      "word": "sick",
+      "translation": "enfermo",
+      "pronunciation": "en-FEHR-moh",
+      "example": "I am feeling sick. — Me siento enfermo.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": 356,
+      "word": "rest",
+      "translation": "descanso",
+      "pronunciation": "des-KAHN-soh",
+      "example": "You need to rest. — Necesitas descansar.",
+      "difficulty": "easy",
+      "category": "health"
+    },
+    {
+      "id": 357,
+      "word": "exercise",
+      "translation": "ejercicio",
+      "pronunciation": "eh-hehr-SEE-syoh",
+      "example": "Exercise is important. — El ejercicio es importante.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 358,
+      "word": "blood",
+      "translation": "sangre",
+      "pronunciation": "SAHN-greh",
+      "example": "Blood is red. — La sangre es roja.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 359,
+      "word": "heart",
+      "translation": "corazón",
+      "pronunciation": "koh-rah-SON",
+      "example": "My heart is beating fast. — Mi corazón late rápido.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 360,
+      "word": "nurse",
+      "translation": "enfermera",
+      "pronunciation": "en-fehr-MEH-rah",
+      "example": "The nurse is helpful. — La enfermera es útil.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 361,
+      "word": "allergy",
+      "translation": "alergia",
+      "pronunciation": "ah-LEHR-hyah",
+      "example": "I have a food allergy. — Tengo una alergia alimentaria.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": 362,
+      "word": "surgery",
+      "translation": "cirugía",
+      "pronunciation": "see-roo-HEE-ah",
+      "example": "The surgery went well. — La cirugía salió bien.",
+      "difficulty": "hard",
+      "category": "health"
+    },
+    {
+      "id": 363,
+      "word": "vitamin",
+      "translation": "vitamina",
+      "pronunciation": "vee-tah-MEE-nah",
+      "example": "Take your vitamins. — Toma tus vitaminas.",
+      "difficulty": "medium",
+      "category": "health"
+    },
+    {
+      "id": 364,
+      "word": "office",
+      "translation": "oficina",
+      "pronunciation": "oh-fee-SEE-nah",
+      "example": "I work in an office. — Trabajo en una oficina.",
+      "difficulty": "easy",
+      "category": "business"
+    },
+    {
+      "id": 365,
+      "word": "meeting",
+      "translation": "reunión",
+      "pronunciation": "reh-oo-NYON",
+      "example": "The meeting starts at nine. — La reunión empieza a las nueve.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 366,
+      "word": "email",
+      "translation": "correo electrónico",
+      "pronunciation": "koh-REH-oh eh-lek-TROH-nee-koh",
+      "example": "Send me an email. — Envíame un correo electrónico.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 367,
+      "word": "contract",
+      "translation": "contrato",
+      "pronunciation": "kon-TRAH-toh",
+      "example": "Sign the contract. — Firma el contrato.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 368,
+      "word": "salary",
+      "translation": "salario",
+      "pronunciation": "sah-LAH-ryoh",
+      "example": "My salary is good. — Mi salario es bueno.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 369,
+      "word": "company",
+      "translation": "empresa",
+      "pronunciation": "em-PREH-sah",
+      "example": "This company is large. — Esta empresa es grande.",
+      "difficulty": "easy",
+      "category": "business"
+    },
+    {
+      "id": 370,
+      "word": "client",
+      "translation": "cliente",
+      "pronunciation": "klyen-TEH",
+      "example": "The client is happy. — El cliente está contento.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 371,
+      "word": "project",
+      "translation": "proyecto",
+      "pronunciation": "proh-YEK-toh",
+      "example": "The project is finished. — El proyecto está terminado.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 372,
+      "word": "budget",
+      "translation": "presupuesto",
+      "pronunciation": "preh-soo-PWES-toh",
+      "example": "The budget is limited. — El presupuesto es limitado.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 373,
+      "word": "deadline",
+      "translation": "fecha límite",
+      "pronunciation": "FEH-chah LEE-mee-teh",
+      "example": "The deadline is tomorrow. — La fecha límite es mañana.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 374,
+      "word": "profit",
+      "translation": "ganancia",
+      "pronunciation": "gah-NAHN-syah",
+      "example": "The profit is high. — La ganancia es alta.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 375,
+      "word": "invoice",
+      "translation": "factura",
+      "pronunciation": "fak-TOO-rah",
+      "example": "Send the invoice. — Envía la factura.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 376,
+      "word": "report",
+      "translation": "informe",
+      "pronunciation": "een-FOR-meh",
+      "example": "Write a report. — Escribe un informe.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 377,
+      "word": "team",
+      "translation": "equipo",
+      "pronunciation": "eh-KEE-poh",
+      "example": "Our team is excellent. — Nuestro equipo es excelente.",
+      "difficulty": "easy",
+      "category": "business"
+    },
+    {
+      "id": 378,
+      "word": "strategy",
+      "translation": "estrategia",
+      "pronunciation": "es-trah-TEH-hyah",
+      "example": "The strategy is clear. — La estrategia es clara.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 379,
+      "word": "presentation",
+      "translation": "presentación",
+      "pronunciation": "preh-sen-tah-SYON",
+      "example": "Give a presentation. — Haz una presentación.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 380,
+      "word": "interview",
+      "translation": "entrevista",
+      "pronunciation": "en-treh-VEES-tah",
+      "example": "I have a job interview. — Tengo una entrevista de trabajo.",
+      "difficulty": "medium",
+      "category": "business"
+    },
+    {
+      "id": 381,
+      "word": "negotiate",
+      "translation": "negociar",
+      "pronunciation": "neh-goh-SYAR",
+      "example": "We need to negotiate. — Necesitamos negociar.",
+      "difficulty": "hard",
+      "category": "business"
+    },
+    {
+      "id": 382,
+      "word": "computer",
+      "translation": "computadora",
+      "pronunciation": "kom-poo-tah-DOH-rah",
+      "example": "I use a computer at work. — Uso una computadora en el trabajo.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 383,
+      "word": "phone",
+      "translation": "teléfono",
+      "pronunciation": "teh-LEH-foh-noh",
+      "example": "Call me on my phone. — Llámame al teléfono.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 384,
+      "word": "internet",
+      "translation": "internet",
+      "pronunciation": "een-tehr-NET",
+      "example": "The internet is fast. — El internet es rápido.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 385,
+      "word": "website",
+      "translation": "sitio web",
+      "pronunciation": "SEE-tyoh web",
+      "example": "Visit our website. — Visita nuestro sitio web.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 386,
+      "word": "password",
+      "translation": "contraseña",
+      "pronunciation": "kon-trah-SEN-yah",
+      "example": "Enter your password. — Ingresa tu contraseña.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 387,
+      "word": "app",
+      "translation": "aplicación",
+      "pronunciation": "ah-plee-kah-SYON",
+      "example": "Download the app. — Descarga la aplicación.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 388,
+      "word": "software",
+      "translation": "software",
+      "pronunciation": "SOFT-wehr",
+      "example": "Update your software. — Actualiza tu software.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 389,
+      "word": "screen",
+      "translation": "pantalla",
+      "pronunciation": "pan-TAH-yah",
+      "example": "The screen is bright. — La pantalla es brillante.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 390,
+      "word": "keyboard",
+      "translation": "teclado",
+      "pronunciation": "teh-KLAH-doh",
+      "example": "Use the keyboard to type. — Usa el teclado para escribir.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 391,
+      "word": "mouse",
+      "translation": "ratón",
+      "pronunciation": "rah-TON",
+      "example": "Click with the mouse. — Haz clic con el ratón.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 392,
+      "word": "printer",
+      "translation": "impresora",
+      "pronunciation": "eem-preh-SOH-rah",
+      "example": "Print with the printer. — Imprime con la impresora.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 393,
+      "word": "camera",
+      "translation": "cámara",
+      "pronunciation": "KAH-mah-rah",
+      "example": "Take a photo with the camera. — Toma una foto con la cámara.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 394,
+      "word": "battery",
+      "translation": "batería",
+      "pronunciation": "bah-teh-REE-ah",
+      "example": "The battery is low. — La batería está baja.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 395,
+      "word": "charger",
+      "translation": "cargador",
+      "pronunciation": "kar-gah-DOR",
+      "example": "I forgot my charger. — Olvidé mi cargador.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 396,
+      "word": "wireless",
+      "translation": "inalámbrico",
+      "pronunciation": "een-ah-LAHM-bree-koh",
+      "example": "This is wireless. — Esto es inalámbrico.",
+      "difficulty": "hard",
+      "category": "technology"
+    },
+    {
+      "id": 397,
+      "word": "download",
+      "translation": "descargar",
+      "pronunciation": "des-kar-GAR",
+      "example": "Download the file. — Descarga el archivo.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 398,
+      "word": "upload",
+      "translation": "subir",
+      "pronunciation": "soo-BEER",
+      "example": "Upload the photo. — Sube la foto.",
+      "difficulty": "medium",
+      "category": "technology"
+    },
+    {
+      "id": 399,
+      "word": "search",
+      "translation": "buscar",
+      "pronunciation": "boos-KAR",
+      "example": "Search for information. — Busca información.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 400,
+      "word": "video",
+      "translation": "video",
+      "pronunciation": "VEE-deh-oh",
+      "example": "Watch the video. — Mira el video.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 401,
+      "word": "message",
+      "translation": "mensaje",
+      "pronunciation": "men-SAH-heh",
+      "example": "Send a message. — Envía un mensaje.",
+      "difficulty": "easy",
+      "category": "technology"
+    },
+    {
+      "id": 402,
+      "word": "football",
+      "translation": "fútbol",
+      "pronunciation": "FOOT-bol",
+      "example": "Football is popular here. — El fútbol es popular aquí.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 403,
+      "word": "basketball",
+      "translation": "baloncesto",
+      "pronunciation": "bah-lon-SES-toh",
+      "example": "I play basketball. — Juego al baloncesto.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 404,
+      "word": "tennis",
+      "translation": "tenis",
+      "pronunciation": "TEH-nees",
+      "example": "She plays tennis well. — Ella juega bien al tenis.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 405,
+      "word": "swimming",
+      "translation": "natación",
+      "pronunciation": "nah-tah-SYON",
+      "example": "Swimming is good exercise. — La natación es buen ejercicio.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 406,
+      "word": "running",
+      "translation": "correr",
+      "pronunciation": "koh-REHR",
+      "example": "I go running every day. — Salgo a correr todos los días.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 407,
+      "word": "gym",
+      "translation": "gimnasio",
+      "pronunciation": "heem-NAH-syoh",
+      "example": "I go to the gym. — Voy al gimnasio.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 408,
+      "word": "score",
+      "translation": "puntuación",
+      "pronunciation": "poon-twah-SYON",
+      "example": "The score is two to one. — La puntuación es dos a uno.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 409,
+      "word": "match",
+      "translation": "partido",
+      "pronunciation": "par-TEE-doh",
+      "example": "We watched the match. — Vimos el partido.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 410,
+      "word": "win",
+      "translation": "ganar",
+      "pronunciation": "gah-NAR",
+      "example": "We want to win. — Queremos ganar.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 411,
+      "word": "lose",
+      "translation": "perder",
+      "pronunciation": "per-DEHR",
+      "example": "It is hard to lose. — Es difícil perder.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 412,
+      "word": "player",
+      "translation": "jugador",
+      "pronunciation": "hoo-gah-DOR",
+      "example": "He is a great player. — Él es un gran jugador.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 413,
+      "word": "coach",
+      "translation": "entrenador",
+      "pronunciation": "en-treh-nah-DOR",
+      "example": "The coach is experienced. — El entrenador tiene experiencia.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 414,
+      "word": "goal",
+      "translation": "gol",
+      "pronunciation": "gol",
+      "example": "He scored a goal. — Marcó un gol.",
+      "difficulty": "easy",
+      "category": "sports"
+    },
+    {
+      "id": 415,
+      "word": "championship",
+      "translation": "campeonato",
+      "pronunciation": "kam-peh-oh-NAH-toh",
+      "example": "We won the championship. — Ganamos el campeonato.",
+      "difficulty": "hard",
+      "category": "sports"
+    },
+    {
+      "id": 416,
+      "word": "baseball",
+      "translation": "béisbol",
+      "pronunciation": "BEYS-bol",
+      "example": "Baseball is popular in the US. — El béisbol es popular en EE.UU.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 417,
+      "word": "volleyball",
+      "translation": "voleibol",
+      "pronunciation": "voh-ley-BOL",
+      "example": "She plays volleyball. — Ella juega voleibol.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 418,
+      "word": "cycling",
+      "translation": "ciclismo",
+      "pronunciation": "see-KLEES-moh",
+      "example": "Cycling is healthy. — El ciclismo es saludable.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 419,
+      "word": "skiing",
+      "translation": "esquí",
+      "pronunciation": "es-KEE",
+      "example": "I love skiing. — Me encanta el esquí.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 420,
+      "word": "boxing",
+      "translation": "boxeo",
+      "pronunciation": "bok-SEH-oh",
+      "example": "Boxing is a tough sport. — El boxeo es un deporte duro.",
+      "difficulty": "medium",
+      "category": "sports"
+    },
+    {
+      "id": 421,
+      "word": "congratulations",
+      "translation": "felicitaciones",
+      "pronunciation": "feh-lee-see-tah-SYOH-nes",
+      "example": "Congratulations on your success! — ¡Felicitaciones por tu éxito!",
+      "difficulty": "hard",
+      "category": "greetings"
+    },
+    {
+      "id": 422,
+      "word": "welcome",
+      "translation": "bienvenido",
+      "pronunciation": "byen-veh-NEE-doh",
+      "example": "Welcome to our home. — Bienvenido a nuestra casa.",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 423,
+      "word": "cheers",
+      "translation": "salud",
+      "pronunciation": "sah-LOOD",
+      "example": "Cheers! To your health! — ¡Salud!",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 424,
+      "word": "happy birthday",
+      "translation": "feliz cumpleaños",
+      "pronunciation": "feh-LEES koom-pleh-AHN-yos",
+      "example": "Happy birthday! — ¡Feliz cumpleaños!",
+      "difficulty": "medium",
+      "category": "greetings"
+    },
+    {
+      "id": 425,
+      "word": "good luck",
+      "translation": "buena suerte",
+      "pronunciation": "BWEH-nah SWEHR-teh",
+      "example": "Good luck on your exam! — ¡Buena suerte en tu examen!",
+      "difficulty": "easy",
+      "category": "greetings"
+    },
+    {
+      "id": 426,
+      "word": "zero",
+      "translation": "cero",
+      "pronunciation": "SEH-roh",
+      "example": "Zero is not a number we use much. — Cero no es un número que usamos mucho.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 427,
+      "word": "ten",
+      "translation": "diez",
+      "pronunciation": "dyez",
+      "example": "I count to ten. — Cuento hasta diez.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 428,
+      "word": "hundred",
+      "translation": "cien",
+      "pronunciation": "syen",
+      "example": "One hundred people came. — Vinieron cien personas.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 429,
+      "word": "thousand",
+      "translation": "mil",
+      "pronunciation": "meel",
+      "example": "A thousand thanks. — Mil gracias.",
+      "difficulty": "medium",
+      "category": "numbers"
+    },
+    {
+      "id": 430,
+      "word": "hour",
+      "translation": "hora",
+      "pronunciation": "OH-rah",
+      "example": "We waited an hour. — Esperamos una hora.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 431,
+      "word": "minute",
+      "translation": "minuto",
+      "pronunciation": "mee-NOO-toh",
+      "example": "One minute, please. — Un minuto, por favor.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 432,
+      "word": "week",
+      "translation": "semana",
+      "pronunciation": "seh-MAH-nah",
+      "example": "See you next week. — Nos vemos la próxima semana.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 433,
+      "word": "month",
+      "translation": "mes",
+      "pronunciation": "mes",
+      "example": "This month is busy. — Este mes estoy ocupado.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 434,
+      "word": "year",
+      "translation": "año",
+      "pronunciation": "AHN-yoh",
+      "example": "Happy New Year! — ¡Feliz Año Nuevo!",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 435,
+      "word": "today",
+      "translation": "hoy",
+      "pronunciation": "oy",
+      "example": "Today is a good day. — Hoy es un buen día.",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 436,
+      "word": "morning",
+      "translation": "mañana",
+      "pronunciation": "mah-NYAH-nah",
+      "example": "Good morning! — ¡Buenos días!",
+      "difficulty": "easy",
+      "category": "numbers"
+    },
+    {
+      "id": 437,
+      "word": "night",
+      "translation": "noche",
+      "pronunciation": "NOH-cheh",
+      "example": "Good night! — ¡Buenas noches!",
+      "difficulty": "easy",
+      "category": "numbers"
+    }
+  ]
+}

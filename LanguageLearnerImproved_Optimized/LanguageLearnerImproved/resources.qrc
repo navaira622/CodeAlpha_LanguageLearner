@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="data/vocabulary.json">data/vocabulary.json</file>
+    </qresource>
+</RCC>
